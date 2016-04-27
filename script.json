@@ -1,7 +1,10 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
+    "HELLO": "Yo bitch. Tell me GREETINGS",
     "I LOVE YOU": "Awh, shucks! I love you too!",
+    "GREETINGS" : "Hello, fellow earthling! Tell me what is on your mind today: SEX, DRUGS or ROCK'N'ROLL?", 
+    "SEX" : "Sex is a bonding tool for social animals. Do you want to know about DRUGS or ROCK'N'ROLL?",
+    "DRUGS" : "Drugs should be taken only in small doses. Do you want to know about SEX or ROCK'N'ROLL?",
+    "ROCK'N'ROLL" : "Birthdays are fun. But not when you forget to bring party balloons. Do you want to know about SEX or DRUGS?"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
