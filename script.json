@@ -1,4 +1,5 @@
 {
+    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)"
     "HELLO": "Hello, wonderful creature :) Let me introduce myself. My name is Steve, I like WHISKEY, PLAID SHIRTS and SOFT PORN. I like to TALK too, but I only respond to key words which written in capital letter. Go ahead write something.",
     "SOFT PORN": "You are a cheeky one, aren't you! Have you heard about this cool startup called 'The Bearded Feminist?'. What does that have to do with anything you ask? Allow me to tell you a STORY",
     "WHISKEY": "Why do we even use drugs? Sweet talk me BABY", 
